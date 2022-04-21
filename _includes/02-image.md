@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Lukas Meinhart](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Auguste_Rodin_by_George_Charles_Beresford_%28NPG_x6573%29.jpg/220px-Auguste_Rodin_by_George_Charles_Beresford_%28NPG_x6573%29.jpg)
